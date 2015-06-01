@@ -48,7 +48,7 @@ window.addEventListener("load", function(){
 		ecLevel: 'H',
 		size: 550,
 		fill: '#AAA',
-		text: window.location.protocol + window.location.host + window.location.pathname
+		text: "https://play.google.com/store/apps/details?id=com.brendena.mapleSyrupCaculator"
 
 	}).click(function(){
          $("#results").css("opacity","1");
